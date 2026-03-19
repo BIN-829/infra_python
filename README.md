@@ -6,3 +6,10 @@
 git clone ....
 cd ....
 ```
+
+```python
+num: int = 10
+names: list=[10,20,30]
+```
+
+def
